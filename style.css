@@ -1,0 +1,19 @@
+.dispnone {
+    display:none;
+}
+
+.containerArticles {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1rem;
+    padding: 1rem;
+
+}
+
+.secondPartArticle {
+    width: 20%;
+    border: 1px solid black;
+    background-color: aqua;
+    margin: 1rem;
+    padding: 1rem;
+}
